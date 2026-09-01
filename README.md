@@ -12,8 +12,12 @@
 
 ### 🧑‍💻 About Me
 - 🎓 Computer Science & Engineering Graduate from **University of Dhaka**
-- 🔭 Currently working on **Rendering** as part of **Samsung Medison** @ Samsung R&D Institute Bangladesh
-- 🌱 Currently learning **rendering with DirectX**, and exploring **attacks and defenses in AI safety** (untargeted/backdoor attacks in federated/split learning, LLM reasoning)
+- 🔭 Currently working on **Rendering** as part of <a href="https://samsungmedison.com/" target="_blank">Samsung Medison</a> @ <a href="https://research.samsung.com/srbd" target="_blank">Samsung R&amp;D Institute Bangladesh</a>
+- 🌱 Currently learning:
+  - **Rendering with DirectX**
+  - **Attacks and defenses in AI safety**
+    - Untargeted/backdoor attacks in federated & split learning
+    - LLM reasoning
 - 💬 Ask me about **AI for Safety**
 - ⚡ Fun fact: **I've turned "just checking flight prices" into a full personality trait — always planning the next trip before finishing the last one**
 
