@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Prodipta Sen Amartya</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prodipta%20Sen%20Amartya&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</p>
+
 <h3 align="center">CS Graduate from University of Dhaka | Senior Software Engineer @ <a href="https://research.samsung.com/srbd" target="_blank">Samsung R&amp;D Institute Bangladesh</a></h3>
 <h3 align="center">Former Remote Researcher @ <a href="https://www.lucidresearch.org/" target="_blank">LUCID - LAB FOR UNCERTAINTY IN DATA AND DECISION MAKING</a></h3>
 
@@ -11,7 +14,7 @@
   <a href="[YOUR PORTFOLIO URL]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6E56CF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ### 🧑‍💻 About Me
 - 🎓 Computer Science & Engineering Graduate from **University of Dhaka**
@@ -32,7 +35,17 @@
 | 🎓 Institutional | prodiptasen-2018325324@cs.du.ac.bd |
 | 🏢 Official (Samsung) | prodipta.s@samsung.com |
 
----
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prodipta0109/Prodipta0109/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prodipta0109/Prodipta0109/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prodipta0109/Prodipta0109/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ### 🛠️ Skills & Expertise
 
@@ -91,12 +104,19 @@
 ![LoRA / QLoRA](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-2E86C1?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-27AE60?style=for-the-badge)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ### 📊 GitHub Stats
 
-<p align="center">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prodipta0109&theme=tokyonight&hide_border=true" /></p>
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Prodipta0109&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prodipta0109&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prodipta0109&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my pinned repos below.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
