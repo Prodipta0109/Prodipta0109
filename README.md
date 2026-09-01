@@ -77,20 +77,16 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-34495E?style=for-the-badge)
 
 **Research Interests**
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4B8BBE?style=for-the-badge)
-![Federated Learning](https://img.shields.io/badge/Federated%20Learning-8E44AD?style=for-the-badge)
-![Split Learning](https://img.shields.io/badge/Split%20Learning-8E44AD?style=for-the-badge)
-![MPC](https://img.shields.io/badge/Secure%20MPC-2C3E50?style=for-the-badge)
+![Federated & Split Learning](https://img.shields.io/badge/Federated%20%26%20Split%20Learning-8E44AD?style=for-the-badge)
 ![Backdoor Attacks](https://img.shields.io/badge/Backdoor%20Attacks-C0392B?style=for-the-badge)
-![LLM Reasoning](https://img.shields.io/badge/LLM%20Reasoning-16A085?style=for-the-badge)
 ![AI Safety](https://img.shields.io/badge/AI%20Safety-E67E22?style=for-the-badge)
-![LoRA](https://img.shields.io/badge/LoRA-2E86C1?style=for-the-badge)
-![QLoRA](https://img.shields.io/badge/QLoRA-2E86C1?style=for-the-badge)
+![LLM Reasoning](https://img.shields.io/badge/LLM%20Reasoning-16A085?style=for-the-badge)
+![LoRA / QLoRA](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-2E86C1?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-27AE60?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-34495E?style=for-the-badge)
 
 ---
 
