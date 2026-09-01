@@ -19,7 +19,7 @@
     - Untargeted/backdoor attacks in federated & split learning
     - LLM reasoning
 - 💬 Ask me about **AI for Safety**
-- ⚡ Fun fact: **I've turned "just checking flight prices" into a full personality trait — always planning the next trip before finishing the last one**
+- ⚡ Fun fact: **I've turned "just checking flight prices" into a full personality trait; always planning the next trip before finishing the last one**
 
 ### 📫 Contact Me
 
