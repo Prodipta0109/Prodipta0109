@@ -2,8 +2,6 @@
 <h3 align="center">CS Graduate from University of Dhaka | Senior Software Engineer @ <a href="https://research.samsung.com/srbd" target="_blank">Samsung R&amp;D Institute Bangladesh</a></h3>
 <h3 align="center">Former Remote Researcher @ <a href="https://www.lucidresearch.org/" target="_blank">LUCID - LAB FOR UNCERTAINTY IN DATA AND DECISION MAKING</a></h3>
 
-<p> </p>
-
 <p align="center">
   <a href="[YOUR LINKEDIN URL]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="[YOUR X/TWITTER URL]" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
