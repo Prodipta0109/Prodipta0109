@@ -96,19 +96,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prodipta0109&theme=tokyonight&hide_border=true" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prodipta0109&theme=tokyo-night&hide_border=true" />
-</p>
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prodipta0109&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Prodipta0109&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prodipta0109&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
