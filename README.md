@@ -3,10 +3,6 @@
 <h3 align="center">Former Remote Researcher @ <a href="https://www.lucidresearch.org/" target="_blank">LUCID - LAB FOR UNCERTAINTY IN DATA AND DECISION MAKING</a></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer+%40+Samsung+R%26D;Former+Researcher+%40+Lucid+Lab;Building+Web+%26+Desktop+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="[YOUR LINKEDIN URL]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="[YOUR X/TWITTER URL]" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="[YOUR FACEBOOK URL]" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
