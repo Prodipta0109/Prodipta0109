@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 [Your degree / program] at **[Your university]**
+- 🎓 Computer Science & Engineering Graduate at **University of Dhaka**
 - 🔭 Currently working on **[current project or role]**
 - 🌱 Currently learning **[skill / tech you're picking up]**
 - 💬 Ask me about **[topics you're comfortable discussing]**
