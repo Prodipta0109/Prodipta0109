@@ -11,13 +11,19 @@
 ---
 
 ### 🧑‍💻 About Me
+- 🎓 Computer Science & Engineering Graduate from **University of Dhaka**
+- 🔭 Currently working on **Rendering** as part of **Samsung Medison** @ Samsung R&D Institute Bangladesh
+- 🌱 Currently learning **rendering with DirectX**, and exploring **attacks and defenses in AI safety** (untargeted/backdoor attacks in federated/split learning, LLM reasoning)
+- 💬 Ask me about **AI for Safety**
+- ⚡ Fun fact: **I've turned "just checking flight prices" into a full personality trait — always planning the next trip before finishing the last one**
 
-- 🎓 Computer Science & Engineering Graduate at **University of Dhaka**
-- 🔭 Currently working on **[current project or role]**
-- 🌱 Currently learning **[skill / tech you're picking up]**
-- 💬 Ask me about **[topics you're comfortable discussing]**
-- 📫 Reach me at **[your email]**
-- ⚡ Fun fact: **[something personal/fun]**
+### 📫 Contact Me
+
+| Type | Email |
+|---|---|
+| 🧑 Personal | prodiptasenamartya1971@gmail.com |
+| 🎓 Institutional | prodiptasen-2018325324@cs.du.ac.bd |
+| 🏢 Official (Samsung) | prodipta.s@samsung.com |
 
 ---
 
