@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prodipta Sen Amartya</h1>
 <h3 align="center">CS Graduate from University of Dhaka | Full-Stack Developer @ <a href="https://research.samsung.com/srbd" target="_blank">Samsung R&amp;D Institute Bangladesh</a></h3>
-<h3 align="center">Former Remote Researcher @ <a href="https://www.lucidresearch.org/" target="_blank">Lucid Lab</a></h3>
+<h3 align="center">Former Remote Researcher @ <a href="https://www.lucidresearch.org/" target="_blank">LUCID - LAB FOR UNCERTAINTY IN DATA AND DECISION MAKING</a></h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=LINE+ONE+HERE;LINE+TWO+HERE;LINE+THREE+HERE" alt="Typing SVG" />
