@@ -28,6 +28,8 @@
 - ⚡ Fun fact: **I've turned "just checking flight prices" into a full personality trait; always planning the next trip before finishing the last one**
 
 <a name="contact-me"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
 ### 📫 Contact Me
 
 | Type | Email |
